@@ -90,9 +90,15 @@
         padding: 2px 0px;
       }
     }
-    .flag-like {
+    .flag-like, .flag {
       display: inline;
-
+      a {
+        font-size: 32px;
+        text-decoration: none;
+        &:hover, &:focus, &:active {
+          text-decoration: none;
+        }
+      }
     }
   }
 }
