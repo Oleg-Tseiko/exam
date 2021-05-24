@@ -41,6 +41,14 @@
     margin: 0 0 0 -10px;
     border-radius: 0;
     color: $black_color;
+    font-size: 0;
+    background-image: url("../images/search.png");
+    height: 38px;
+    width: 38px;
+    padding: 11px;
+    position: absolute;
+    top: 13px;
+    right: 10px;
   }
   .form-type-search {
     max-width: 350px;
