@@ -21,3 +21,6 @@
 
 # Ignore node modules
 /web/themes/custom/exam/node_modules
+
+# Ignore doksal
+/.docksal

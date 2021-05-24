@@ -29,11 +29,9 @@
         "drupal/flag": "^4.0@beta",
         "drupal/fontawesome": "^2.18",
         "drupal/iframe": "^2.10",
-        "drupal/paragraphs": "^1.12",
         "drupal/pathauto": "^1.8",
         "drupal/slick_views": "^2.4",
         "drupal/social_media_links": "^2.8",
-        "drupal/taxonomy_class": "^1.0",
         "drupal/webform": "^6.0",
         "drush/drush": "^10.2"
     },
